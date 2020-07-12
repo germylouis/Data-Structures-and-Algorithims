@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1496bf61-b810-4e39-a6ca-8199b2bff6ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataStructs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Selection/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Shell/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortingAlgorithims/ShellSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,26 @@
       <recent name="$PROJECT_DIR$/src/main/java/Sorting Algorithims" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.MainClass" />
+      <module name="DataStructs.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,13 +90,30 @@
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="367" y="189" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.709@0.23.1280.709" timestamp="1593744079610" />
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom" timestamp="1594567602179">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1594567602179" />
+    <state width="1218" height="163" key="GridCell.Tab.0.center" timestamp="1594567602178">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1594567602178" />
+    <state width="1218" height="163" key="GridCell.Tab.0.left" timestamp="1594567602178">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1594567602178" />
+    <state width="1218" height="163" key="GridCell.Tab.0.right" timestamp="1594567602179">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1218" height="163" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1594567602179" />
     <state x="423" y="164" key="chooseDestDirectoryDialog" timestamp="1593744471611">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="423" y="164" key="chooseDestDirectoryDialog/0.23.1280.709@0.23.1280.709" timestamp="1593744471611" />
-    <state x="317" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1593024978288">
+    <state x="317" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1594425549506">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
-    <state x="317" y="212" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1593024978288" />
+    <state x="317" y="212" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1594425549506" />
+    <state x="317" y="212" key="com.intellij.ide.util.TipDialog/0.23.1280.710@0.23.1280.710" timestamp="1594071914395" />
   </component>
 </project>

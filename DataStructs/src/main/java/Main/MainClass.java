@@ -1,9 +1,10 @@
 package Main;
 
-import Bubble.BubbleSort;
-import Insertion.InsertionSort;
-import Selection.SelectionSort;
-import Shell.ShellSort;
+
+import SortingAlgorithims.BubbleSort;
+import SortingAlgorithims.InsertionSort;
+import SortingAlgorithims.SelectionSort;
+import SortingAlgorithims.ShellSort;
 
 import java.util.Scanner;
 
@@ -45,6 +46,5 @@ public class MainClass {
 
         }
     }
-
 
 }

@@ -1,15 +1,16 @@
-package Shell;
+package SortingAlgorithims;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class ShellSort {
 
-    public void sortInt( int intArray []){
+    public void sortInt(int intArray[]) {
+
         for (int gap = intArray.length / 2; gap > 0; gap /= 2) {
 
-
             for (int i = gap; i < intArray.length; i++) {
+
                 int newElement = intArray[i];
 
                 int j = i;
@@ -20,8 +21,6 @@ public class ShellSort {
                 }
 
                 intArray[j] = newElement;
-
-
             }
 
         }
