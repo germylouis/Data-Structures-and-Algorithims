@@ -16,5 +16,7 @@ public class PrimeNums {
                 System.out.print( i + " ");
             }
         }
+
     }
+
 }
