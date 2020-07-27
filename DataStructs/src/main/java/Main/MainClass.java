@@ -15,6 +15,7 @@ public class MainClass {
         Arrays.sort(arr);
 
         for (char c : arr) {
+
             if (!map.containsKey(c)) {
                 map.put(c, 1);
             } else {
