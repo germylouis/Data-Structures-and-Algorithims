@@ -13,7 +13,7 @@ public class StringIncrement {
         System.out.println(sb);
     }
 
-    public static void incrementedLogic(String str){
+    public static void incrementedLogic(String str) {
 
         StringBuilder sb = new StringBuilder();
         String z = "z";
@@ -21,8 +21,8 @@ public class StringIncrement {
         for (int i = 0; i < str.length(); i++) {
             System.out.println(str.charAt(i));
 
-            if(z.equals(str.charAt(i))){
-               str.replace(str.charAt(i), 'a');
+            if (z.equals(str.charAt(i))) {
+                str.replace(str.charAt(i), 'a');
             }
 
             sb.append((char) (str.charAt(i) + 1));

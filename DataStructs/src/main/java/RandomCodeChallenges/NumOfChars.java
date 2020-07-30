@@ -1,4 +1,4 @@
-package main.java.RandomCodeChallenges;
+package RandomCodeChallenges;
 
 import java.util.Arrays;
 import java.util.LinkedHashMap;
@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class NumOfChars {
 
-    public static void charCount(String line){
+    public static void charCount(String line) {
         StringBuilder string = new StringBuilder();
         Map<Character, Integer> map = new LinkedHashMap<>();
         char[] arr = line.toCharArray();
@@ -21,7 +21,7 @@ public class NumOfChars {
             }
         }
 
-        map.forEach((k,v) -> string.append(k.toString() + v.toString()));
+        map.forEach((k, v) -> string.append(k.toString() + v.toString()));
 
         System.out.println(string);
     }
